@@ -55,7 +55,7 @@ source venv/bin/activate
 ### 2. Instalar as Dependências
 
 ```sh
-pip install requests-cache retry-requests pandas openpyxl openmeteo_requests pyinstaller
+python -m pip install requests-cache retry-requests pandas openpyxl openmeteo_requests pyinstaller
 ```
 
 ---
