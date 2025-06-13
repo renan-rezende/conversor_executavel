@@ -25,6 +25,15 @@ Este projeto permite obter dados meteorológicos da API Open-Meteo, processá-lo
 
 ## Como Executar o Projeto
 
+### 0. Clonar o Repositório
+
+```sh
+git clone https://github.com/renan-rezende/conversor_executavel.git
+cd conversor_executavel
+```
+
+---
+
 ### 1. Criar e Ativar um Ambiente Virtual
 
 #### No Windows (cmd ou PowerShell):
@@ -91,4 +100,3 @@ Isso gerará um executável dentro da pasta `dist/`.
 - Utilize o ambiente virtual para evitar conflitos de dependências.
 
 **Desenvolvido para facilitar a conversão de dados meteorológicos para o AERMOD!** 🚀
-
